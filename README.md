@@ -38,6 +38,38 @@ SQL, Datactics' Proprietary Software
 #### 🧠 Skills
 Data Analysis, SQL Querying, Regular expressions, address validation, data cleaning and standardization
 #### 📚 Techniques and Approaches
-* The project started with the secure transfer of the single dataset on which I will be working on. During the Datactics' proprietory software, a detailed profiling was done on the dataset to understand the discrepancy distribution of data for cleansing and standarisation.
-* The profiling report was submitted to the SMEs from the client side to agree on scope of the project. To addresses the commonly found discrepancies that involves data cleaning all over the datset, SQL is used to address those descrepancies. These major anamolies in the dataset were addressed using SQL.
-* This partially cleaned Satase
+* The project began with the secure transfer of a single dataset, which served as the foundation for the work. Using Datactics' proprietary software, an in-depth profiling of the dataset was conducted to identify discrepancies and anomalies, providing a clear understanding of the data's quality and standardization needs.
+* A comprehensive profiling report was prepared and submitted to the client's Subject Matter Experts (SMEs) for review and agreement on the project scope. Major anomalies within the dataset were addressed using SQL to perform initial data cleansing, resolving inconsistencies across the dataset.
+* The partially cleansed dataset was then loaded into Datactics' software for advanced cleaning and standardization, aligning with the scope outlined. Advanced techniques focused specifically on address columns to validate addresses against the UK PAF (Postcode Address File), ensuring data accuracy and consistency.
+* Multiple data cleaning and standardization techniques, including the use of regular expressions, were employed to achieve uniformity across the dataset. Unmatched address records identified during validation were flagged as part of a data quality rule, enabling the client to perform manual verification or corrections.
+* Data quality rules were developed alongside flagged records and delivered to the client. A detailed final report was provided, outlining the data cleansing and standardization activities performed, along with a description of each quality rule. Screenshots and supporting documentation were included for clarity and client reference.
+#### 📊✅ Results
+* Enhanced Data Accuracy: Successfully cleansed and standardized the dataset, significantly reducing discrepancies and ensuring alignment with the client’s data quality standards.
+* Validated Address Data: Performed advanced address validation using the UK PAF file, ensuring accurate and consistent address records across the dataset. Unmatched records were flagged for manual review, enhancing the reliability of the client's data.
+* Custom Data Quality Rules: Developed and implemented tailored data quality rules to automate the detection of discrepancies and standardize the dataset, reducing manual intervention and improving efficiency.
+* Detailed Documentation: Delivered a comprehensive report outlining the cleansing and standardization activities, including descriptions of each data quality rule and supporting screenshots, providing transparency and actionable insights for the client.
+* Improved Data Usability: Delivered a standardized, high-quality dataset ready for integration into the client’s workflows, enabling informed decision-making and enhancing operational efficiency.
+* Client Satisfaction: The project scope was met on time, and the client acknowledged the detailed reporting and systematic approach, ensuring long-term confidence in their data management processes.
+### 2. Data Analysis and Insights Project (UK County Council 🇬🇧)
+#### 🎯📌 Objective
+The primary objective of this project was to analyze periodic datasets from the client by performing data cleaning, standardization, and address validation. The project also involved establishing a data pipeline with iterative data quality rules, enabling the client’s periodic datasets to be processed seamlessly. Additionally, a Power BI dashboard was developed to visualize rule results and track data quality improvements over time, providing actionable insights to the client.
+#### 🛠️ Tools
+Datactics' software, PAF, PowerBI
+#### 🧠 Skills
+Data Analysis, Regular expressions, Address validation, data cleaning and standardization, Dashboarding
+#### 📚 Techniques and Approaches
+* Upon agreeing to the project scope with stakeholders from both sides, the dataset was securely retrieved from the client's database for analysis.
+* An in-depth profiling of the dataset was conducted using advanced data profiling techniques to identify discrepancies, anomalies, and areas requiring cleaning and standardization. This step provided a clear understanding of the data's quality and helped define actionable steps for improvement.
+* A comprehensive profiling report was prepared and submitted to the client's Subject Matter Experts (SMEs) for review. Major anomalies within the dataset were resolved using SQL, ensuring initial data cleansing and addressing inconsistencies across the dataset.
+* The partially cleansed dataset was then loaded into Datactics' software for advanced cleaning and standardization. Advanced techniques were applied to address-specific columns, particularly focusing on address validation using the UK PAF (Postcode Address File). This ensured the accuracy and consistency of address data.
+* Various data cleaning and standardization techniques, including the use of regular expressions, were employed to achieve uniformity across the dataset. Unmatched address records identified during validation were flagged as part of a data quality rule, allowing the client to manually verify or correct these records.
+* Data quality rules were developed and iteratively tested, ensuring seamless processing of periodic datasets. A final report was delivered, documenting all cleansing and standardization activities, alongside detailed descriptions of each data quality rule, supported by screenshots and relevant documentation.
+* Interactive Dashboarding: To enhance client understanding, an interactive Power BI dashboard was created to visualize the results of the data quality rules. The dashboard highlighted the number of data points passing and failing the rules, offering a clear view of the dataset's overall quality and enabling data-driven decision-making.
+#### 📊✅ Results
+* Improved Data Accuracy: Successfully cleaned and standardized the dataset, addressing anomalies and inconsistencies to enhance data reliability and usability.
+* Validated Address Data: Achieved comprehensive address validation using the UK PAF file, ensuring accurate and consistent address records. Unmatched records were flagged for client review, further strengthening data quality.
+* Efficient Data Pipeline: Established an iterative data quality pipeline that seamlessly processed periodic datasets, enabling the client to maintain high data standards over time.
+* Enhanced Client Insights: Delivered an interactive Power BI dashboard that provided real-time visualization of data quality rule results. The dashboard allowed the client to monitor the number of data points passing and failing the rules, facilitating actionable insights and better decision-making.
+* Stakeholder Satisfaction: Provided detailed documentation of all data cleansing activities, including descriptions of data quality rules and supporting visuals, ensuring transparency and client satisfaction.
+* Operational Efficiency: Streamlined data validation and quality processes, significantly reducing manual intervention and saving time for the client's data operations team.
+This project not only improved the client’s data quality but also empowered them with tools and insights to monitor and sustain their data accuracy effectively.
