@@ -50,7 +50,7 @@ Data Analysis, SQL Querying, Regular expressions, address validation, data clean
 * Detailed Documentation: Delivered a comprehensive report outlining the cleansing and standardization activities, including descriptions of each data quality rule and supporting screenshots, providing transparency and actionable insights for the client.
 * Improved Data Usability: Delivered a standardized, high-quality dataset ready for integration into the client’s workflows, enabling informed decision-making and enhancing operational efficiency.
 * Client Satisfaction: The project scope was met on time, and the client acknowledged the detailed reporting and systematic approach, ensuring long-term confidence in their data management processes.
-### 2. Data Analysis and Insights Project (UK County Council 🇬🇧)
+### 3. Data Analysis and Insights Project (UK County Council 🇬🇧)
 #### 🎯📌 Objective
 The primary objective of this project was to analyze periodic datasets from the client by performing data cleaning, standardization, and address validation. The project also involved establishing a data pipeline with iterative data quality rules, enabling the client’s periodic datasets to be processed seamlessly. Additionally, a Power BI dashboard was developed to visualize rule results and track data quality improvements over time, providing actionable insights to the client.
 #### 🛠️ Tools
