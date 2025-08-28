@@ -12,7 +12,7 @@ Datactics proprietary Software, SQL, Python, Power BI
 #### 🧠 Skills
 Data Engineering, SQL Querying, Python scripting, Data Visualization
 #### ⏳📅 Project Duration
-3 Months
+6 Months
 #### 📚 Techniques and Approaches
 * This project primarily involved a complete migration of the existing data pipeline, including the transfer of built data quality rules, toolset configurations, predefined sets, and custom data rules designed to process periodic data (monthly data) sourced from the client’s CRM system.
 * The initial phase focused on upgrading the client's software to the latest release, ensuring compatibility for a seamless migration of project components. Before the upgrade, data quality rules, toolset configurations, and other custom rules were carefully exported for re-deployment in the new environment.
